@@ -1,0 +1,1995 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:3826"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          294883.35815733997,
+          2784459.1824556068
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 0,
+        "NAME" : "淡水站",
+        "LOC" : "原有台鐵淡水站附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          296269.23063553515,
+          2782926.4734437321
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 1,
+        "NAME" : "紅樹林站",
+        "LOC" : "現有外北勢溪附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          296326.31285393884,
+          2781025.3290137015
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 2,
+        "NAME" : "竹圍站",
+        "LOC" : "原有台鐵竹圍站附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          297111.34923629474,
+          2779791.3823732585
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 3,
+        "NAME" : "關渡站",
+        "LOC" : "關渡國小附近近靠原台鐵淡水線"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          297706.64193101169,
+          2780343.5470774113
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 4,
+        "NAME" : "忠義站",
+        "LOC" : "中央北路四段 (捷運系統北投機廠西側)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          300669.54678988323,
+          2781039.4183159056
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 5,
+        "NAME" : "新北投站",
+        "LOC" : "原台鐵新北投站附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          300274.33332433994,
+          2780480.8600508152
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 6,
+        "NAME" : "北投站",
+        "LOC" : "原台鐵北投站址"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          300528.19565124909,
+          2779781.504059019
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 7,
+        "NAME" : "奇岩站",
+        "LOC" : "原台鐵淡水線與三合街交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          301052.69368810346,
+          2779259.8715776969
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 8,
+        "NAME" : "唭哩岸站",
+        "LOC" : "原台鐵淡水線與東華街２段３００巷交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302001.07623328804,
+          2778550.3772374117
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 9,
+        "NAME" : "石牌站",
+        "LOC" : "原台鐵淡水線與石牌路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302323.55610903288,
+          2778039.1589803118
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 10,
+        "NAME" : "明德站",
+        "LOC" : "原台鐵淡水線與明德路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302701.91078392399,
+          2777267.1351579973
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 11,
+        "NAME" : "芝山站",
+        "LOC" : "原台鐵淡水線與福國路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302472.19198125973,
+          2773784.7304749503
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 12,
+        "NAME" : "圓山站",
+        "LOC" : "原台鐵淡水線與酒泉街交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302954.67502629367,
+          2775210.6454702024
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 13,
+        "NAME" : "劍潭站",
+        "LOC" : "原台鐵淡水線與９６號計劃道路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          303073.99857677286,
+          2776234.334185035
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 14,
+        "NAME" : "士林站",
+        "LOC" : "原台鐵士林站址"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302398.22494387603,
+          2772842.5294255526
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 15,
+        "NAME" : "民權西路站",
+        "LOC" : "原台鐵淡水線與民權西路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302536.38094212417,
+          2772263.7692379449
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 16,
+        "NAME" : "雙連站",
+        "LOC" : "原台鐵淡水線與民生西路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302506.90928645316,
+          2771713.0103202793
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 17,
+        "NAME" : "中山站",
+        "LOC" : "原台鐵淡水線與南京西路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302090.05335108278,
+          2770509.7422518255
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 18,
+        "NAME" : "臺大醫院站",
+        "LOC" : "公園路與常德街口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          308478.53076957393,
+          2765711.7133280062
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 19,
+        "NAME" : "動物園站",
+        "LOC" : "新光路木柵動物園正門口右側"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          307857.82353113132,
+          2765706.4019891317
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 20,
+        "NAME" : "木柵站",
+        "LOC" : "木柵路４段與軍功路交叉口附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          307341.90218166483,
+          2765743.4821668291
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 21,
+        "NAME" : "萬芳社區站",
+        "LOC" : "萬芳路南側臨近萬和街口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          306328.20273573638,
+          2765838.6013869825
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 22,
+        "NAME" : "萬芳醫院站",
+        "LOC" : "興隆路３段北側警察專科學校附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          306222.73435741232,
+          2766489.3797459141
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 23,
+        "NAME" : "辛亥站",
+        "LOC" : "辛亥站西側臨近萬美街口處"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          306400.11656179884,
+          2767945.5551049807
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 24,
+        "NAME" : "麟光站",
+        "LOC" : "和平東路底麟光新村西側"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          305815.45079114113,
+          2768532.6201826367
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 25,
+        "NAME" : "六張犁站",
+        "LOC" : "和平東路與基隆路口附近之和平東路上"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304844.97487795539,
+          2768766.520321927
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 26,
+        "NAME" : "科技大樓站",
+        "LOC" : "復興南路與和平東路口附近之復興南路上"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304859.56312391814,
+          2769522.9637663141
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 27,
+        "NAME" : "大安站",
+        "LOC" : "復興南路與信義路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304906.67145243095,
+          2772623.041927055
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 28,
+        "NAME" : "中山國中站",
+        "LOC" : "復興北路介於錦州街與民權東路之間"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          311309.40816670476,
+          2771694.6203200766
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 29,
+        "NAME" : "南港站",
+        "LOC" : "南港火車站旁"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          309835.79862458352,
+          2771467.6835002485
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 30,
+        "NAME" : "昆陽站",
+        "LOC" : "忠孝東路與向陽路口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          308727.06980960426,
+          2770808.2176887137
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 31,
+        "NAME" : "後山埤站",
+        "LOC" : "忠孝東路與永吉路口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          308109.99557414214,
+          2770427.3121523983
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 32,
+        "NAME" : "永春站",
+        "LOC" : "虎林街與忠孝東路口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          307038.85301785805,
+          2770457.7194289854
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 33,
+        "NAME" : "市政府站",
+        "LOC" : "基隆路與忠孝東路口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          306274.84055356041,
+          2770473.22312597
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 34,
+        "NAME" : "國父紀念館",
+        "LOC" : "忠孝東路與光復南路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          305464.17112091777,
+          2770486.2269506166
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 35,
+        "NAME" : "忠孝敦化站",
+        "LOC" : "忠孝東路統領商圈附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304872.59889900737,
+          2770495.7297050767
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 36,
+        "NAME" : "忠孝復興站",
+        "LOC" : "忠孝東路與復興南路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          303306.78167111636,
+          2768173.4483791124
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 37,
+        "NAME" : "台電大樓站",
+        "LOC" : "羅斯福路與師大路交叉口 (古亭國小前)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304604.10189055296,
+          2765130.8925939212
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 38,
+        "NAME" : "景美站",
+        "LOC" : "羅斯福路與景福街交叉口 (景美分局前)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302024.22598321509,
+          2767384.9410937536
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 39,
+        "NAME" : "頂溪站",
+        "LOC" : "永和路與竹林路交口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          297656.38106961438,
+          2769172.9897017097
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 40,
+        "NAME" : "江子翠站",
+        "LOC" : "文化路與雙十路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          300579.21284926368,
+          2769773.2367869937
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 41,
+        "NAME" : "龍山寺站",
+        "LOC" : "和平西路三段與康定路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          296718.20627748099,
+          2767440.9382542721
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 42,
+        "NAME" : "板橋站",
+        "LOC" : "文化路與光正街交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          296350.52400469745,
+          2766845.7312747943
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 43,
+        "NAME" : "府中站",
+        "LOC" : "台鐵板橋火車站"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          295691.2048681025,
+          2765697.5551284994
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 44,
+        "NAME" : "亞東醫院站",
+        "LOC" : "南雅南路亞東醫院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          294872.94889024599,
+          2762885.5155047886
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 45,
+        "NAME" : "土城站",
+        "LOC" : "土城中正路與和平路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          294105.31331755646,
+          2762217.8598128525
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 46,
+        "NAME" : "永寧站",
+        "LOC" : "土城中央路承天路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304653.56637442589,
+          2763994.1236793678
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 47,
+        "NAME" : "大坪林站",
+        "LOC" : "北新路與民權路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          300986.79616858636,
+          2765199.3151531052
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 48,
+        "NAME" : "景安站",
+        "LOC" : "景平路與景安路交口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          297230.15198808431,
+          2768406.228910902
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 49,
+        "NAME" : "新埔站",
+        "LOC" : "文化路與民生路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302807.25411112088,
+          2770843.2446207674
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 50,
+        "NAME" : "善導寺站",
+        "LOC" : "忠孝東路與林森路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          301543.85385524586,
+          2769825.9834293663
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 51,
+        "NAME" : "小南門站",
+        "LOC" : "愛國西路與博愛路交叉口附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302176.92608777934,
+          2769673.4780921093
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 52,
+        "NAME" : "中正紀念堂",
+        "LOC" : "羅斯福路與愛國東路交叉口 (中央銀行前)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302736.99411940778,
+          2768857.212180166
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 53,
+        "NAME" : "古亭站",
+        "LOC" : "羅斯福路與和平東路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          303774.86252284807,
+          2770574.7358777355
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 54,
+        "NAME" : "忠孝新生站",
+        "LOC" : "忠孝東路與新生南路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302211.08872744208,
+          2770998.2498106468
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 55,
+        "NAME" : "台北車站",
+        "LOC" : "台鐵火車站對面之忠孝西路地面下"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          301309.63445417845,
+          2770549.4963619723
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 56,
+        "NAME" : "西門站",
+        "LOC" : "中華路與成都路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          312316.02943799237,
+          2771963.6171417497
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 57,
+        "NAME" : "南港展覽館站",
+        "LOC" : "南港研究院路交叉口北側"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          305294.56254260789,
+          2774803.5490294979
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 58,
+        "NAME" : "大直站",
+        "LOC" : "北安路139巷口附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          307216.89291487442,
+          2774998.023572389
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 59,
+        "NAME" : "西湖站",
+        "LOC" : "內湖路一段西湖市場前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          308032.05026932713,
+          2774761.4986227727
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 60,
+        "NAME" : "港墘站",
+        "LOC" : "內湖高工前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          309009.79335559509,
+          2774603.7625254006
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 61,
+        "NAME" : "文德站",
+        "LOC" : "文德路101 巷口附近、內湖高中前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          309939.22874512849,
+          2775158.6107168379
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 62,
+        "NAME" : "內湖站",
+        "LOC" : "金龍路與成功路交叉口附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          310756.87818076665,
+          2775195.8045474575
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 63,
+        "NAME" : "大湖公園站",
+        "LOC" : "成功路五段大湖公園旁"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          311259.58787038643,
+          2773966.3675113674
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 64,
+        "NAME" : "葫洲站",
+        "LOC" : "康寧路二段181巷口附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          311715.69310254935,
+          2773402.2470822651
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 65,
+        "NAME" : "東湖站",
+        "LOC" : "五分街加油站旁"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          312145.00842157146,
+          2772553.6039072634
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 66,
+        "NAME" : "南港軟體園區站",
+        "LOC" : "南港經貿園區內"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          295315.06789533788,
+          2764251.844303044
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 67,
+        "NAME" : "海山站",
+        "LOC" : "公館溝與裕民路口海山高工旁"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304892.5954283817,
+          2771679.9278445314
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 68,
+        "NAME" : "南京復興站",
+        "LOC" : "復興北路與南京東路交叉口(木柵線)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304406.5404917915,
+          2766103.4094307856
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 69,
+        "NAME" : "萬隆站",
+        "LOC" : "羅斯福路與萬隆街交叉口附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          303931.07024129177,
+          2767512.9347684104
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 70,
+        "NAME" : "公館站",
+        "LOC" : "羅斯福路與舟山路交叉口 (台灣大學旁"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          298922.65746718663,
+          2781089.5589744714
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 71,
+        "NAME" : "復興崗站",
+        "LOC" : "中央北路三段５３巷和原台鐵淡水線交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304813.00262131827,
+          2763127.3587223506
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 72,
+        "NAME" : "七張站",
+        "LOC" : "北新路與寶橋路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304653.62124918704,
+          2762275.0954609858
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 73,
+        "NAME" : "新店市公所",
+        "LOC" : "北新路與中華路交叉口 (新店市公所前)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304285.36055915215,
+          2761218.8297912502
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 74,
+        "NAME" : "新店站",
+        "LOC" : "北新路台汽客運總站"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          301400.31187067495,
+          2764811.6850097501
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 75,
+        "NAME" : "南勢角站",
+        "LOC" : "台鐵中和貨運站"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          301592.3697215718,
+          2766157.9228075333
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 76,
+        "NAME" : "永安市場站",
+        "LOC" : "永安市場附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          303792.02670187602,
+          2772304.0143992389
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 77,
+        "NAME" : "行天宮站",
+        "LOC" : "民生東路與錦州街間之松江路下方"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          303235.89486566512,
+          2772820.7753501446
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 78,
+        "NAME" : "中山國小站",
+        "LOC" : "林森北路與新生北路間之民權東路下方"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          300431.3489200102,
+          2772842.5380818252
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 79,
+        "NAME" : "台北橋站",
+        "LOC" : "三重市重新路一、二段與文化南、北路交叉口兩側"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          299551.93042589998,
+          2772474.3046863903
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 80,
+        "NAME" : "菜寮站",
+        "LOC" : "三重市重新路三段，中正南路高架橋與光明路之間"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          298827.93217635597,
+          2772023.2192525929
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 81,
+        "NAME" : "三重站",
+        "LOC" : "三重市褔音街，重陽路一段與重新路四段交會口至河堤道"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          300183.62946640188,
+          2773616.0519852354
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 82,
+        "NAME" : "三重國小站",
+        "LOC" : "三重市三重國小前之三和路三段"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          299061.70752898697,
+          2774373.2322357502
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 83,
+        "NAME" : "三和國中站",
+        "LOC" : "三重市三和國中前之三和路四段"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          298381.12504917098,
+          2774806.5570654655
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 84,
+        "NAME" : "徐匯中學站",
+        "LOC" : "蘆洲市集賢路與中山一路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          297736.11156576173,
+          2775350.2093225596
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 85,
+        "NAME" : "三民高中站",
+        "LOC" : "蘆洲市三民路與復興路口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          296837.7614384573,
+          2775999.8726265938
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 86,
+        "NAME" : "蘆洲站",
+        "LOC" : "蘆洲市三民路與中正路交會路口東北側"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          293979.50314605678,
+          2769477.8710340383
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 87,
+        "NAME" : "輔大站",
+        "LOC" : "新莊市中正路輔仁大學校園東側"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          297638.45889832883,
+          2771014.0742835887
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 88,
+        "NAME" : "先嗇宮站",
+        "LOC" : "三重市重新路五段與光復路交會口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          296581.7578257728,
+          2770243.9786283765
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 89,
+        "NAME" : "頭前庄站",
+        "LOC" : "新莊市中正路近思源路口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          295643.90569926274,
+          2769857.6268264763
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 90,
+        "NAME" : "新莊站",
+        "LOC" : "新莊市新莊國中前之中正路"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          303785.7738841963,
+          2771688.5042292466
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 91,
+        "NAME" : "松江南京站",
+        "LOC" : "松江路與南京東路交叉口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304046.77861251344,
+          2762511.9188735238
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 92,
+        "NAME" : "小碧潭站",
+        "LOC" : "新店機場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          305654.12699541904,
+          2772880.6530435462
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 93,
+        "NAME" : "松山機場站",
+        "LOC" : "松山機場(敦化北路340之9號)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          301741.00436599011,
+          2772845.0857090908
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 94,
+        "NAME" : "大橋頭站",
+        "LOC" : "民權西路大橋國小旁"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          303314.63207544218,
+          2769639.4725048207
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 95,
+        "NAME" : "東門站",
+        "LOC" : "金山南路與永康街間之信義路下方(交會站)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          306044.95113129064,
+          2775296.3329538498
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 96,
+        "NAME" : "劍南路站",
+        "LOC" : "北安路821巷口附近"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          291646.81860593689,
+          2768335.0456112674
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 97,
+        "NAME" : "迴龍站",
+        "LOC" : "新莊市中正路與中山路交會口，省立樂生療養院前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          292657.49953498715,
+          2769047.4951776364
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 98,
+        "NAME" : "丹鳳站",
+        "LOC" : "新莊市中正路與民安路交會口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          306864.08806880878,
+          2769548.7603840395
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 99,
+        "NAME" : "台北101/世貿站",
+        "LOC" : "信義路世貿中心旁"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304019.8223351264,
+          2769598.7809667997
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 100,
+        "NAME" : "大安森林公園站",
+        "LOC" : "信義路三段大安森林公園內(建國南路與新生南路間,經濟"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          305828.85721015418,
+          2769563.3842495321
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 101,
+        "NAME" : "信義安和站",
+        "LOC" : "信義安和路口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          307588.37429785082,
+          2769531.1738181589
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 102,
+        "NAME" : "象山站",
+        "LOC" : "松仁路與信義路五段91巷間"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304846.11963962478,
+          2771632.9446980888
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 103,
+        "NAME" : "南京復興站",
+        "LOC" : "復興北路與南京東路交叉口(松山線)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          303783.81235838833,
+          2771645.8549764245
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 104,
+        "NAME" : "松江南京站",
+        "LOC" : "松江路與南京東路交叉口(松山線)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          308293.42098659958,
+          2771440.3029637854
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 105,
+        "NAME" : "松山站",
+        "LOC" : "臺鐵松山站前八德路4段下方"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          306947.07310528983,
+          2771593.5303955181
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 106,
+        "NAME" : "南京三民站",
+        "LOC" : "南京東路5段與三民路口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          305696.43798006658,
+          2771611.734321021
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 107,
+        "NAME" : "台北小巨蛋站",
+        "LOC" : "台北小巨蛋西北側\r\n臺北小巨蛋北側"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          301487.39443316252,
+          2771334.5766950762
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 108,
+        "NAME" : "北門站",
+        "LOC" : "塔城街\r\n塔城街"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302506.90928645316,
+          2771713.0103202793
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 109,
+        "NAME" : "中山站",
+        "LOC" : "原台鐵淡水線與南京西路交叉口(松山線)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          296581.7578257728,
+          2770243.9786283751
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 110,
+        "NAME" : "頭前庄站",
+        "LOC" : "位於新北市新莊區思源路、中正路路口，可與中和新蘆線"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          296718.20627748099,
+          2767440.9382542707
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 111,
+        "NAME" : "板橋站",
+        "LOC" : "位於新北市板橋區縣民大道、新站路路口，可與板南線交"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          300986.79616858379,
+          2765199.3151531043
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 112,
+        "NAME" : "景安站",
+        "LOC" : "位於新北市中和區景平路、景安路路口，可與中和新蘆線"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302083.46618987346,
+          2765009.1309296475
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 113,
+        "NAME" : "景平站",
+        "LOC" : "位於新北市中和區景平路123號，保警總隊前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          302909.26037918462,
+          2764823.1659022341
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 114,
+        "NAME" : "秀朗橋站",
+        "LOC" : "位於新北市中和區景平路、秀朗路三段路口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          303372.50148204248,
+          2764106.6181469662
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 115,
+        "NAME" : "十四張站",
+        "LOC" : "位於新北市新店區中正路、民權路路口西側十四張地區，"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          297732.53079674253,
+          2767411.8145053824
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 116,
+        "NAME" : "板新站",
+        "LOC" : "位於新北市板橋區板新路、中山路路口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          298786.79863615934,
+          2766807.0069830138
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 117,
+        "NAME" : "中原站",
+        "LOC" : "位於新北市中和區板南路、中正路路口附近，近板南2號?"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          299481.99259654467,
+          2766375.5134739485
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 118,
+        "NAME" : "橋和站",
+        "LOC" : "位於新北市中和區中山路、橋和路間之板南路上"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          300152.1990931941,
+          2766060.544810799
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 119,
+        "NAME" : "中和站",
+        "LOC" : "位於新北市中和區景平路、中山路二段路口，可與萬大-?"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          296404.09926714801,
+          2771370.5731122051
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 120,
+        "NAME" : "幸福站",
+        "LOC" : "位於新北市新莊區思源路、幸福路路口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          296367.14701538213,
+          2772621.8720871755
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 121,
+        "NAME" : "新北產業園區站",
+        "LOC" : "位於新北市新莊區五工路、中山路一段路口，可與臺灣桃"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          304653.56637442589,
+          2763994.123679366
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 122,
+        "NAME" : "大坪林站",
+        "LOC" : "位於新北市新店區民權路、北新路口，可與松山新店線交"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          297230.15198808431,
+          2768406.2289109011
+        ]
+      },
+      "properties" : {
+        "FID CODE" : 123,
+        "NAME" : "新埔民生站",
+        "LOC" : "位於新北市板橋區民生路、文化路路口北側"
+      }
+    }
+  ]
+}
